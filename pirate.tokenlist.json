@@ -11,19 +11,27 @@
     "tokens": [
         {
             "chainId": 56766,
-            "address": "0xd5f93d98523cfd4795a732932d59a55c4922b1ba",
+            "address": "0xc0e4cD2f2820F6097c022860b5Fa1354C0B3b786",
             "decimals": 18,
-            "name": "Wrapped AVAX",
-            "symbol": "WAVAX",
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+            "name": "DAI",
+            "symbol": "DAI",
+            "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png"
         },
         {
             "chainId": 56766,
-            "address": "0x5aCF391371979802bC7D59f4fEdc5372FDB26a6E",
-            "decimals": 18,
-            "name": "tUSD",
-            "symbol": "ttUSD",
-            "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png" 
+            "address": "0x9C66FC38006C95c67974c72f29466a916a96f17C",
+            "decimals": 6,
+            "name": "USDC",
+            "symbol": "USDC",
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
+        },
+        {
+            "chainId": 56766,
+            "address": "0x561D18Be1F81B98eE3591f8AE56Dd6AD90fD43d2",
+            "decimals": 6,
+            "name": "USDT",
+            "symbol": "USDT",
+            "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
         }
     ]
 }
