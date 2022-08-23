@@ -36,7 +36,7 @@
         {
             "chainId": 56766,
             "address": "0xea2f20480b088a401456801e5897180c2713caac",
-            "decimals": 6,
+            "decimals": 18,
             "name": "Wrapped PVF",
             "symbol": "wPVF",
             "logoURI": "https://scan.pirateverse.finance/static/media/token-pvf.30d3eb9b.png"
