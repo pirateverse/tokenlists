@@ -11,7 +11,7 @@
     "tokens": [
         {
             "chainId": 56766,
-            "address": "0xc0e4cD2f2820F6097c022860b5Fa1354C0B3b786",
+            "address": "0xc0e4cd2f2820f6097c022860b5fa1354c0b3b786",
             "decimals": 18,
             "name": "DAI",
             "symbol": "DAI",
@@ -19,7 +19,7 @@
         },
         {
             "chainId": 56766,
-            "address": "0x9C66FC38006C95c67974c72f29466a916a96f17C",
+            "address": "0x9c66fc38006c95c67974c72f29466a916a96f17c",
             "decimals": 6,
             "name": "USDC",
             "symbol": "USDC",
@@ -27,11 +27,19 @@
         },
         {
             "chainId": 56766,
-            "address": "0x561D18Be1F81B98eE3591f8AE56Dd6AD90fD43d2",
+            "address": "0x561d18be1f81b98ee3591f8ae56dd6ad90fd43d2",
             "decimals": 6,
             "name": "USDT",
             "symbol": "USDT",
             "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
+        },
+        {
+            "chainId": 56766,
+            "address": "0xea2f20480b088a401456801e5897180c2713caac",
+            "decimals": 6,
+            "name": "Wrapped PVF",
+            "symbol": "wPVF",
+            "logoURI": "https://scan.pirateverse.finance/static/media/token-pvf.30d3eb9b.png"
         }
     ]
 }
