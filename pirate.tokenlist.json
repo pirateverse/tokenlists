@@ -15,7 +15,7 @@
             "decimals": 18,
             "name": "DAI",
             "symbol": "DAI",
-            "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png"
+            "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png"
         },
         {
             "chainId": 56766,
@@ -23,7 +23,7 @@
             "decimals": 6,
             "name": "USDC",
             "symbol": "USDC",
-            "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
         },
         {
             "chainId": 56766,
@@ -31,7 +31,7 @@
             "decimals": 6,
             "name": "USDT",
             "symbol": "USDT",
-            "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
+            "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png"
         },
         {
             "chainId": 56766,
@@ -40,6 +40,14 @@
             "name": "Wrapped PVF",
             "symbol": "wPVF",
             "logoURI": "https://scan.pirateverse.finance/static/media/token-pvf.30d3eb9b.png"
+        },
+        {
+            "chainId": 56766,
+            "address": "0x8Ac0eF77Da41F2e35B28ac7489A94a956b67121c",
+            "decimals": 18,
+            "name": "Wrapped AVAX",
+            "symbol": "wAVAX",
+            "logoURI": "https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png"
         }
     ]
 }
